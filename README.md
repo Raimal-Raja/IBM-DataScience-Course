@@ -2,16 +2,15 @@
 
 ---
 
-## Repository guide
+## Setup and repository reference
 
-### Contents
+### Project structure
 
 - ["Chapter - 2 Data Science Tools](%22Chapter%20-%202%20Data%20Science%20Tools)
 - [Chapter - 1 Data Science 101](Chapter%20-%201%20Data%20Science%20101)
 - [Chapter - 2 Data Science Tools](Chapter%20-%202%20Data%20Science%20Tools)
 - [Chapter - 3 Data Science Methodology](Chapter%20-%203%20Data%20Science%20Methodology)
 - [LICENSE](LICENSE)
-- [README.md](README.md)
 
 ### Getting started
 
@@ -24,9 +23,15 @@ Open the relevant .ipynb notebook in Jupyter or a compatible notebook environmen
 
 ### Configuration and limitations
 
+Browse the chapter notes in order. This repository is study material rather than a deployed application; no model training or cloud provisioning was performed.
+
 ### Validation
 
-Reviewed on 2026-10-08. Repository structure and documentation were reviewed. No application runtime, training job, or platform-specific build was executed.
+Audit: 2026-10-08. Repository structure, setup instructions and description were reviewed. Syntax checks do not establish full runtime correctness. External APIs, live scraping, GUI interaction, notebook training and production deployment were not comprehensively exercised.
+
+### Repository description
+
+The short GitHub description is provided in [REPOSITORY_DESCRIPTION.md](REPOSITORY_DESCRIPTION.md).
 
 ### Contributions
 
